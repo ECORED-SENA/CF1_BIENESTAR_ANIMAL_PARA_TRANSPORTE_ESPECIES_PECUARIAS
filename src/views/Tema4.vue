@@ -34,7 +34,7 @@
             h4.mb-4 Lo invitamos a escuchar el siguiente <em>podcast</em>:
             TarjetaAudio.color-acento-contenido.mb-3(
               texto="Especies y transporte: comportamiento, manejo y repercusiones en el bienestar animal"
-              :audio="require('@/assets/componentes/audios/audio-ej.mp3')"
+              :audio="require('@/assets/componentes/audios/Podcast_CF1_Bienestar_animal_para_transporte_especies_pecuarias.mp3')"
               @audio-hover="mostrarIndicadorTarjetaAudio = false"
             )
       .col-xl-auto

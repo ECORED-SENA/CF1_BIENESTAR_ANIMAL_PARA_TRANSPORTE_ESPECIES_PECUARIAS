@@ -3,7 +3,7 @@ export default {
     Name:
       'Fundamentos del bienestar animal y normatividad en el transporte de especies pecuarias',
     Description:
-      'El componente aborda la implementación de principios de bienestar animal en el transporte pecuario, enfatizando las cinco libertades y la normatividad vigente en Colombia. Analiza especies, efectos fisiológicos y conductuales del transporte, y estrategias para minimizar estrés, lesiones y pérdidas. Se promueven buenas prácticas pecuarias que mejoran productividad, sanidad y competitividad, asegurando sostenibilidad, inocuidad y responsabilidad social en la cadena agropecuarias.',
+      'El componente aborda la implementación de principios de bienestar animal en el transporte pecuario, enfatizando las cinco libertades y la normatividad vigente en Colombia. Analiza especies, efectos fisiológicos y conductuales del transporte, y estrategias para minimizar estrés, lesiones y pérdidas. Se promueven buenas prácticas pecuarias que mejoran productividad, sanidad y competitividad, asegurando sostenibilidad, inocuidad y responsabilidad social en la cadena agropecuaria.',
     imagenBannerPrincipal: require('@/assets/curso/portada/banner-principal.png'),
     fondoBannerPrincipal: require('@/assets/curso/portada/fondo-banner-principal.png'),
     imagenesDecorativasBanner: [
@@ -420,7 +420,7 @@ export default {
           centro: 'Dirección General',
         },
         {
-          nombre: 'Olga Constanza Bermudez Jaimes',
+          nombre: 'Olga Constanza Bermúdez Jaimes',
           cargo: 'Responsable de línea de producción',
           centro: 'Dirección General',
         },

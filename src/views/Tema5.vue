@@ -127,13 +127,13 @@
             .col-xl
               AcordionA(tipo="a" clase-tarjeta="tarjeta acordeonA")(data-aos="fade-right")
                 .row(titulo="En el bienestar animal").ajuste-cajaAcordion
-                  p.mb-0 Dolor, sufrimiento, miedo, aumento de la susceptibilidad a enfermedades, violación de las Cinco libertades del bienestar animal.
+                  p.mb-0 Dolor, sufrimiento, miedo, aumento de la susceptibilidad a enfermedades, violación de las cinco libertades del bienestar animal.
                 .row(titulo="En la salud").ajuste-cajaAcordion
                   p.mb-0  Inmunosupresión, aparición de enfermedades respiratorias como neumonías, enteritis, mastitis y reactivación de enfermedades latentes.
                 .row(titulo="En la productividad").ajuste-cajaAcordion
                   p.mb-0 Pérdida de peso, disminución de la producción de leche (hasta un 30 % en vacas lecheras), mayor mortalidad en especies sensibles como pollos y lechones.
                 .row(titulo="En la calidad del producto final").ajuste-cajaAcordion
-                  p.mb-0  Aparición de carne DFD (oscura, firme y seca) por agotamiento de glucógeno, carne PSE (pálida, blanda y exudativa), mayor cantidad de decomisos y riesgo de contaminación por patógenos zoonóticos como Salmonella, E. coli y Campylobacter.
+                  p.mb-0  Aparición de carne DFD (oscura, firme y seca) por agotamiento de glucógeno, carne PSE (pálida, blanda y exudativa), mayor cantidad de decomisos y riesgo de contaminación por patógenos zoonóticos como <em>Salmonella, E. coli y Campylobacter</em>.
                 .row(titulo="En lo económico").ajuste-cajaAcordion
                   p.mb-0 Pérdida de competitividad en mercados que exigen estándares de bienestar, costos por mortalidad y decomisos, deterioro de la imagen del productor ante los consumidores.
             .col-xl-auto

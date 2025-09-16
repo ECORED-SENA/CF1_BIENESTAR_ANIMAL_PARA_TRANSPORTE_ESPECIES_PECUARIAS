@@ -107,11 +107,11 @@
           SlyderA(tipo="b")
             .row.h-100.justify-content-center.align-items-center
               .col-xl-6.mb-4
-                h4.mb-3 Bovinos (Bos taurus, Bos indicus)
+                h4.mb-3 Bovinos (<em>Bos taurus, Bos indicus</em>)
                 p.mb-3 Base de la ganadería en muchas regiones del mundo.
                 <ul class="fa-ul estilo___ul_1 mb-0">
-                  <li class="mb-1"><span class="fa-li"><i class="fas fa-cow"></i></span><strong>Producción de carne</strong>: razas como brahman, angus, hereford, nelore; productos como cortes rojos, vísceras, sebo y subproductos industriales.</li>
-                  <li class="mb-1"><span class="fa-li"><i class="fas fa-cow"></i></span><strong>Producción de leche</strong>: razas como holstein, jersey, pardo suizo, gyr lechero; leche fluida, queso, yogur, mantequilla, leche en polvo.</li>
+                  <li class="mb-1"><span class="fa-li"><i class="fas fa-cow"></i></span><strong>Producción de carne</strong>: razas como <em>brahman, angus, hereford, nelore</em>; productos como cortes rojos, vísceras, sebo y subproductos industriales.</li>
+                  <li class="mb-1"><span class="fa-li"><i class="fas fa-cow"></i></span><strong>Producción de leche</strong>: razas como <em>holstein, jersey</em>, pardo suizo, <em>gyr</em> lechero; leche fluida, queso, yogur, mantequilla, leche en polvo.</li>
                   <li class="mb-1"><span class="fa-li"><i class="fas fa-cow"></i></span><strong>Subproductos</strong>: cuero, estiércol (fertilizante y biogás), gelatina, colágeno.</li>
                   <li class="mb-0"><span class="fa-li"><i class="fas fa-cow"></i></span><strong>Servicios</strong>: tracción y arado en algunas regiones.</li>
                 </ul>
@@ -121,7 +121,7 @@
             
             .row.h-100.justify-content-center.align-items-center
               .col-xl-6.mb-4
-                h4.mb-3 Porcinos (Sus scrofa domesticus)
+                h4.mb-3 Porcinos (Sus <em>scrofa domesticus</em>)
                 p.mb-3 Alta eficiencia alimenticia y producción de proteína animal.
                 <ul class="fa-ul estilo___ul_1 mb-0">
                   <li class="mb-1"><span class="fa-li"><i class="fas fa-cow"></i></span><strong>Producción de carne</strong>: chuletas, jamón, tocino, costilla, embutidos; muy demandados en zonas urbanas.</li>
@@ -134,12 +134,12 @@
 
             .row.h-100.justify-content-center.align-items-center
               .col-xl-6.mb-4
-                h4.mb-3 Ovinos y caprinos (Ovis aries, Capra hircus)
+                h4.mb-3 Ovinos y caprinos (<em>Ovis aries, Capra hircus</em>)
                 p.mb-3 Adaptados a climas áridos y zonas de difícil acceso.
                 <ul class="fa-ul estilo___ul_1 mb-0">
                   <li class="mb-1"><span class="fa-li"><i class="fas fa-cow"></i></span><strong>Producción de carne</strong>: cordero y cabrito, valorados por su sabor.</li>
                   <li class="mb-1"><span class="fa-li"><i class="fas fa-cow"></i></span><strong>Producción de leche</strong>: base de quesos artesanales como el queso de cabra, manchego y feta.</li>
-                  <li class="mb-1"><span class="fa-li"><i class="fas fa-cow"></i></span><strong>Materias primas</strong>: lana y cuero (ovinos), pieles finas, cashmere, mohair (caprinos).</li>
+                  <li class="mb-1"><span class="fa-li"><i class="fas fa-cow"></i></span><strong>Materias primas</strong>: lana y cuero (ovinos), pieles finas, <em>cashmere, mohair</em> (caprinos).</li>
                   <li class="mb-0"><span class="fa-li"><i class="fas fa-cow"></i></span><strong>Subproductos</strong>: estiércol como abono.</li>
                 </ul>
               .col-xl-6
@@ -165,8 +165,8 @@
                 h4.mb-3 Aves de engorde y postura
                 p.mb-3 Actividad altamente tecnificada y de rápido crecimiento.
                 <ul class="fa-ul estilo___ul_1 mb-0">
-                  <li class="mb-1"><span class="fa-li"><i class="fas fa-cow"></i></span><strong>Engorde (broilers)</strong>: razas ross, cobb; producción intensiva de carne blanca.</li>
-                  <li class="mb-1"><span class="fa-li"><i class="fas fa-cow"></i></span><strong>Postura (ponedoras)</strong>: razas hy-line, lohmann; producción de huevos de mesa y fértiles.</li>
+                  <li class="mb-1"><span class="fa-li"><i class="fas fa-cow"></i></span><strong>Engorde (<em>broilers</em>)</strong>: razas <em>ross, cobb</em>; producción intensiva de carne blanca.</li>
+                  <li class="mb-1"><span class="fa-li"><i class="fas fa-cow"></i></span><strong>Postura (ponedoras)</strong>: razas <em>hy-line, lohmann</em>; producción de huevos de mesa y fértiles.</li>
                   <li class="mb-0"><span class="fa-li"><i class="fas fa-cow"></i></span><strong>Subproductos</strong>: plumas (almohadas, aislantes), vísceras para harinas.</li>
                 </ul>
               .col-xl-6
@@ -188,7 +188,7 @@
             
             .row.h-100.justify-content-center.align-items-center
               .col-xl-6.mb-4
-                h4.mb-3 Bufalinos (Bubalus bubalis)
+                h4.mb-3 Bufalinos (<em>Bubalus bubalis</em>)
                 p.mb-3 Importantes en regiones tropicales y húmedas.
                 <ul class="fa-ul estilo___ul_1 mb-0">
                   <li class="mb-1"><span class="fa-li"><i class="fas fa-cow"></i></span><strong>Producción de leche</strong>: mayor contenido graso y proteico que la leche bovina; base para quesos como la mozzarella.</li>

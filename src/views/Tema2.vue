@@ -116,7 +116,7 @@
           .col
             h3 Principales beneficios de las BPBA
         
-        p.mb-5 La implementación de las Buenas Prácticas de Bienestar Animal (BPBA) genera beneficios integrales que abarcan aspectos éticos, sanitarios, productivos, económicos, normativos y laborales, consolidando sistemas pecuarios más sostenibles, eficientes y socialmente responsables.
+        p.mb-5 La implementación de las <strong>Buenas Prácticas de Bienestar Animal (BPBA)</strong> genera beneficios integrales que abarcan aspectos éticos, sanitarios, productivos, económicos, normativos y laborales, consolidando sistemas pecuarios más sostenibles, eficientes y socialmente responsables.
 
         TabsB.color-acento-contenido.mb-5(data-aos="fade-up")
           .py-4.py-md-5(titulo="Éticos y sociales" :icono="require('@/assets/curso/temas/img26.svg')")
@@ -317,7 +317,7 @@
       .col
         h3 Efectos del transporte en la calidad del producto final
     
-    p.mb-4 El bienestar animal durante el transporte no solo tiene implicaciones éticas y sanitarias, sino que también influye directamente en la calidad e inocuidad de los productos pecuarios. A continuación, se detallan los principales efectos según el tipo de producto:
+    p.mb-4 El bienestar animal durante el transporte no solo tiene implicaciones éticas y sanitarias, sino que también influye directamente en la <strong>calidad e inocuidad de los productos pecuarios</strong>. A continuación, se detallan los principales efectos según el tipo de producto:
 
     TabsC.color-acento-contenido.mb-5(data-aos="zoom-in")
       .py-3.py-md-4(titulo="Carne")

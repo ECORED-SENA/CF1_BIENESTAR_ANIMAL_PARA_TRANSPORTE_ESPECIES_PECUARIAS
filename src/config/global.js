@@ -234,10 +234,10 @@ export default {
     {
       tema: 'Bienestar animal en el transporte',
       referencia:
-        'Grandin, T. (2019). Animal welfare in transportation and slaughter. Meat Science, 1(1), 1–8. ',
+        'Castro de Jesús, J., Ortega Cerrilla, M. E., Herrera Haro, J. G., Hernández Cazares, A. S., & Ayala Rodríguez, J. M. (2021). Animal welfare during transport and slaughter of beef cattle.',
       tipo: 'Artículo científico',
       link:
-        'https://www.sciencedirect.com/science/article/abs/pii/S0309174018308532?via%3Dihub',
+        'https://revista-agroproductividad.org/index.php/agroproductividad/article/view/1691/1714 ',
     },
     {
       tema: 'Bienestar animal en el transporte',
@@ -382,8 +382,9 @@ export default {
     },
     {
       referencia:
-        'Grandin, T. (2019). Animal welfare in transportation and slaughter. Meat Science, 1(1), 1–8. ',
-      link: 'https://doi.org/10.1016/j.meatsci.2018.12.007',
+        'Castro de Jesús, J., Ortega Cerrilla, M. E., Herrera Haro, J. G., Hernández-Cazares, A. S., & Ayala Rodríguez, J. M. (2021). Animal welfare during transport and slaughter of beef cattle.',
+      link:
+        'https://revista-agroproductividad.org/index.php/agroproductividad/article/view/1691/1714',
     },
     {
       referencia:

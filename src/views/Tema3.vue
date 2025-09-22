@@ -75,7 +75,7 @@
 
         .row.align-items-center.mb-5
           .col-xl
-            p El ganado bovino posee una zona de fuga, definida como el espacio hasta donde una persona puede acercarse sin provocar una reacción en el animal. Una vez se invade esta área, el animal se aleja. Este mecanismo representa una forma de presión no física útil para dirigir al bovino hacia una dirección deseada, sin dañarlo ni comprometer su bienestar.
+            p El ganado bovino posee una zona de fuga, definida como el espacio hasta donde una persona puede acercarse sin provocar una reacción en el animal. Una que se invade esta área, el animal se aleja. Este mecanismo representa una forma de presión no física útil para dirigir al bovino hacia una dirección deseada, sin dañarlo ni comprometer su bienestar.
             .row.align-items-center.m-0.style___box_4.ajuste___box_4(data-aos="zoom-in")
               .col-xl-auto(data-aos="fade-right")
                 figure.d-none.d-xl-block
@@ -219,7 +219,7 @@
 
         .row.align-items-center.mb-5
           .col-xl
-            p A pesar de los avances en bienestar animal, en muchas prácticas cotidianas aún se observan formas de maltrato hacia los caballos, como golpes, uso excesivo de riendas o espuelas, y procedimientos inadecuados durante el herrado o el arreo. Estas acciones causan lesiones físicas, pérdida de condición corporal, alteraciones del comportamiento y una disminución en la vida útil del animal.
+            p A pesar de los avances en bienestar animal, en muchas prácticas cotidianas aún se observan formas de maltrato hacia los caballos, como golpes, uso excesivo de riendas o espuelas y procedimientos inadecuados durante el herrado o el arreo. Estas acciones causan lesiones físicas, pérdida de condición corporal, alteraciones del comportamiento y una disminución en la vida útil del animal.
             .row.align-items-center.m-0.style___box_4.ajuste___box_4_1.mb-3(data-aos="zoom-in")
               .col-xl-auto(data-aos="fade-right")
                 figure.d-none.d-xl-block
@@ -498,7 +498,7 @@
       .col
         h3 Consideraciones para el manejo en granja
 
-    p.mb-4 El manejo inadecuado de las parvadas como los golpes, gritos, aglomeraciones o ruidos fuertes provoca un aumento de la mortalidad, del estrés fisiológico y una disminución significativa en la productividad. Las buenas prácticas de manejo en granja incluyen:
+    p.mb-4 El manejo inadecuado de las parvadas, como los golpes, gritos, aglomeraciones o ruidos fuertes, provoca un aumento de la mortalidad, del estrés fisiológico y una disminución significativa en la productividad. Las buenas prácticas de manejo en granja incluyen:
 
     .row.justify-content-center.mb-5
       .col-xl-10

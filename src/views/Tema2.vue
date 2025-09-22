@@ -39,7 +39,7 @@
                 </ul>
               .col-xl-6
                 figure.d-none.d-xl-block
-                  img(src='@/assets/curso/temas/img17.png', alt='' ).m-auto
+                  img(src='@/assets/curso/temas/img17.png', alt='' style="max-width: 500px").m-auto
             
             .row.h-100.justify-content-center.align-items-center
               .col-xl-6.mb-4
@@ -50,7 +50,7 @@
                 </ul>
               .col-xl-6
                 figure.d-none.d-xl-block
-                  img(src='@/assets/curso/temas/img18.png', alt='' ).m-auto
+                  img(src='@/assets/curso/temas/img18.png', alt='' style="max-width: 500px").m-auto
 
             .row.h-100.justify-content-center.align-items-center
               .col-xl-6.mb-4
@@ -62,7 +62,7 @@
                 </ul>
               .col-xl-6
                 figure.d-none.d-xl-block
-                  img(src='@/assets/curso/temas/img20.png', alt='' ).m-auto
+                  img(src='@/assets/curso/temas/img20.png', alt='' style="max-width: 500px").m-auto
             
             .row.h-100.justify-content-center.align-items-center
               .col-xl-6.mb-4
@@ -73,7 +73,7 @@
                 </ul>
               .col-xl-6
                 figure.d-none.d-xl-block
-                  img(src='@/assets/curso/temas/img19.png', alt='' ).m-auto
+                  img(src='@/assets/curso/temas/img19.png', alt='' style="max-width: 500px").m-auto
 
             .row.h-100.justify-content-center.align-items-center
               .col-xl-6.mb-4
@@ -84,7 +84,7 @@
                 </ul>
               .col-xl-6
                 figure.d-none.d-xl-block
-                  img(src='@/assets/curso/temas/img21.png', alt='' ).m-auto
+                  img(src='@/assets/curso/temas/img21.png', alt='' style="max-width: 500px").m-auto
 
     .fondo___color_1
       .px-5
@@ -276,7 +276,7 @@
                 p.mb-0 Durante el transporte, el aumento de cortisol y catecolaminas produce una elevación en la frecuencia cardíaca y respiratoria. Además, la restricción de agua y alimento provoca deshidratación y pérdida de peso. El estado de inmunosupresión generado incrementa la vulnerabilidad a enfermedades como neumonías y diarreas.
               .col-xl-6
                 figure.d-none.d-xl-block
-                  img(src='@/assets/curso/temas/img39.png', alt='' ).m-auto
+                  img(src='@/assets/curso/temas/img39.png', alt='' style="max-width: 500px").m-auto
             
             .row.h-100.justify-content-center.align-items-center
               .col-xl-6.mb-4
@@ -284,7 +284,7 @@
                 p.mb-0 Golpes, hematomas, fracturas y cojeras son comunes cuando se utilizan pisos inadecuados, se permite el hacinamiento o se ejerce manejo brusco. Estas lesiones son más frecuentes en animales de mayor peso, como bovinos y porcinos.
               .col-xl-6
                 figure.d-none.d-xl-block
-                  img(src='@/assets/curso/temas/img40.png', alt='' ).m-auto
+                  img(src='@/assets/curso/temas/img40.png', alt='' style="max-width: 500px").m-auto
 
             .row.h-100.justify-content-center.align-items-center
               .col-xl-6.mb-4
@@ -292,7 +292,7 @@
                 p.mb-0 Los golpes de calor se presentan en viajes prolongados o con alta densidad animal, mientras que la hipotermia afecta a los animales transportados sin protección en climas fríos.
               .col-xl-6
                 figure.d-none.d-xl-block
-                  img(src='@/assets/curso/temas/img41.png', alt='' ).m-auto
+                  img(src='@/assets/curso/temas/img41.png', alt='' style="max-width: 500px").m-auto
             
             .row.h-100.justify-content-center.align-items-center
               .col-xl-6.mb-4
@@ -300,7 +300,7 @@
                 p.mb-0 Los animales pueden vocalizar, mostrar agresividad o intentar escapar. Estas conductas son más notorias en especies nerviosas como equinos y porcinos.
               .col-xl-6
                 figure.d-none.d-xl-block
-                  img(src='@/assets/curso/temas/img42.png', alt='' ).m-auto
+                  img(src='@/assets/curso/temas/img42.png', alt='' style="max-width: 500px").m-auto
             
             .row.h-100.justify-content-center.align-items-center
               .col-xl-6.mb-4
@@ -308,7 +308,7 @@
                 p.mb-0 Los viajes largos y las malas prácticas de transporte aumentan significativamente la proporción de animales que llegan caídos o muertos, lo cual impacta negativamente el bienestar y la economía del productor.
               .col-xl-6
                 figure.d-none.d-xl-block
-                  img(src='@/assets/curso/temas/img43.png', alt='' ).m-auto
+                  img(src='@/assets/curso/temas/img43.png', alt='' style="max-width: 500px").m-auto
     
     .caja-titulos-tercer-nivel.mb-5(data-aos="fade-right")
       .col-lg-auto

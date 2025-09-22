@@ -31,7 +31,7 @@
                 </ul>
               .col-xl-6
                 figure.d-none.d-xl-block
-                  img(src='@/assets/curso/temas/img3.png', alt='' ).m-auto
+                  img(src='@/assets/curso/temas/img3.png', alt=''  style="max-width: 500px").m-auto
             
             .row.h-100.justify-content-center.align-items-center
               .col-xl-6.mb-4
@@ -43,7 +43,7 @@
                 </ul>
               .col-xl-6
                 figure.d-none.d-xl-block
-                  img(src='@/assets/curso/temas/img4.png', alt='' ).m-auto
+                  img(src='@/assets/curso/temas/img4.png', alt=''  style="max-width: 500px").m-auto
 
             .row.h-100.justify-content-center.align-items-center
               .col-xl-6.mb-4
@@ -56,7 +56,7 @@
                 </ul>
               .col-xl-6
                 figure.d-none.d-xl-block
-                  img(src='@/assets/curso/temas/img6.png', alt='' ).m-auto
+                  img(src='@/assets/curso/temas/img6.png', alt=''  style="max-width: 500px").m-auto
             
             .row.h-100.justify-content-center.align-items-center
               .col-xl-6.mb-4
@@ -68,7 +68,7 @@
                 </ul>
               .col-xl-6
                 figure.d-none.d-xl-block
-                  img(src='@/assets/curso/temas/img5.png', alt='' ).m-auto
+                  img(src='@/assets/curso/temas/img5.png', alt=''  style="max-width: 500px").m-auto
 
     .fondo___color
       .px-5
@@ -117,7 +117,7 @@
                 </ul>
               .col-xl-6
                 figure.d-none.d-xl-block
-                  img(src='@/assets/curso/temas/img9.png', alt='' ).m-auto
+                  img(src='@/assets/curso/temas/img9.png', alt='' style="max-width: 500px").m-auto
             
             .row.h-100.justify-content-center.align-items-center
               .col-xl-6.mb-4
@@ -130,7 +130,7 @@
                 </ul>
               .col-xl-6
                 figure.d-none.d-xl-block
-                  img(src='@/assets/curso/temas/img10.png', alt='' ).m-auto
+                  img(src='@/assets/curso/temas/img10.png', alt='' style="max-width: 500px").m-auto
 
             .row.h-100.justify-content-center.align-items-center
               .col-xl-6.mb-4
@@ -144,7 +144,7 @@
                 </ul>
               .col-xl-6
                 figure.d-none.d-xl-block
-                  img(src='@/assets/curso/temas/img11.png', alt='' ).m-auto
+                  img(src='@/assets/curso/temas/img11.png', alt='' style="max-width: 500px").m-auto
             
             .row.h-100.justify-content-center.align-items-center
               .col-xl-6.mb-4
@@ -158,7 +158,7 @@
                 </ul>
               .col-xl-6
                 figure.d-none.d-xl-block
-                  img(src='@/assets/curso/temas/img12.png', alt='' ).m-auto
+                  img(src='@/assets/curso/temas/img12.png', alt='' style="max-width: 500px").m-auto
 
             .row.h-100.justify-content-center.align-items-center
               .col-xl-6.mb-4
@@ -171,7 +171,7 @@
                 </ul>
               .col-xl-6
                 figure.d-none.d-xl-block
-                  img(src='@/assets/curso/temas/img13.png', alt='' ).m-auto
+                  img(src='@/assets/curso/temas/img13.png', alt='' style="max-width: 500px").m-auto
 
             .row.h-100.justify-content-center.align-items-center
               .col-xl-6.mb-4
@@ -184,7 +184,7 @@
                 </ul>
               .col-xl-6
                 figure.d-none.d-xl-block
-                  img(src='@/assets/curso/temas/img14.png', alt='' ).m-auto
+                  img(src='@/assets/curso/temas/img14.png', alt='' style="max-width: 500px").m-auto
             
             .row.h-100.justify-content-center.align-items-center
               .col-xl-6.mb-4
@@ -198,7 +198,7 @@
                 </ul>
               .col-xl-6
                 figure.d-none.d-xl-block
-                  img(src='@/assets/curso/temas/img15.png', alt='' ).m-auto
+                  img(src='@/assets/curso/temas/img15.png', alt='' style="max-width: 500px").m-auto
 
 </template>
 

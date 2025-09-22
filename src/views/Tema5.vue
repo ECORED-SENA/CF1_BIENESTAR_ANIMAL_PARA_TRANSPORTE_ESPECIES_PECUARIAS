@@ -43,7 +43,7 @@
                 p.mb-0 Cambios bruscos de temperatura y humedad, golpe de calor o hipotermia, ventilación deficiente que favorece la acumulación de gases como amoníaco y CO₂, exposición directa al sol o a la lluvia.
               .col-xl-6
                 figure.d-none.d-xl-block
-                  img(src='@/assets/curso/temas/img121.png', alt='' ).m-auto
+                  img(src='@/assets/curso/temas/img121.png', alt=''  style="max-width: 500px").m-auto
             
             .row.h-100.justify-content-center.align-items-center
               .col-xl-6.mb-4
@@ -51,7 +51,7 @@
                 p.mb-0 Vibraciones, ruidos, frenadas bruscas, curvas cerradas, viajes largos sin pausas, densidad inadecuada de carga (hacinamiento o espacio excesivo).
               .col-xl-6
                 figure.d-none.d-xl-block
-                  img(src='@/assets/curso/temas/img122.png', alt='' ).m-auto
+                  img(src='@/assets/curso/temas/img122.png', alt=''  style="max-width: 500px").m-auto
 
             .row.h-100.justify-content-center.align-items-center
               .col-xl-6.mb-4
@@ -59,7 +59,7 @@
                 p.mb-0 Maltrato físico, uso de picanas eléctricas, rampas mal diseñadas, personal sin formación en bienestar animal, desconocimiento de normativas como la Resolución ICA 136 de 2020.
               .col-xl-6
                 figure.d-none.d-xl-block
-                  img(src='@/assets/curso/temas/img123.png', alt='' ).m-auto
+                  img(src='@/assets/curso/temas/img123.png', alt=''  style="max-width: 500px").m-auto
             
             .row.h-100.justify-content-center.align-items-center
               .col-xl-6.mb-4
@@ -67,7 +67,7 @@
                 p.mb-0 Estado fisiológico (gestación, enfermedad, edad), temperamento nervioso o poca experiencia con humanos, sensibilidad específica por especie o raza (p. ej., bovinos europeos).
               .col-xl-6
                 figure.d-none.d-xl-block
-                  img(src='@/assets/curso/temas/img124.png', alt='' ).m-auto
+                  img(src='@/assets/curso/temas/img124.png', alt=''  style="max-width: 500px").m-auto
 
     <!-- BLOQUE 2 -->
     Separador

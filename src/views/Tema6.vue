@@ -21,7 +21,7 @@
     .row.align-items-center
       .col-xl
         p.mb-3 La Ley 1774 establece el marco ético y legal para la protección de los animales, reconociéndolos como seres sintientes y definiendo las responsabilidades asociadas a su cuidado, incluyendo el transporte.
-        p.mb-0.style___box_8(data-aos="zoom-in") Esta ley prohíbe el maltrato animal, imponiendo sanciones penales y administrativas a quienes generen dolor, sufrimiento o daño a su salud. Establece el principio de bienestar animal como obligatorio en todas las prácticas de manejo, lo que implica reducir el sufrimiento innecesario. También establece que los responsables del transportes sean propietarios, conductores o cuidadores, deben garantizar condiciones que eviten el estrés, las lesiones y la mortalidad.
+        p.mb-0.style___box_8(data-aos="zoom-in") Esta ley prohíbe el maltrato animal, imponiendo sanciones penales y administrativas a quienes generen dolor, sufrimiento o daño a su salud. Establece el principio de bienestar animal como obligatorio en todas las prácticas de manejo, lo que implica reducir el sufrimiento innecesario. También establece que los responsables del transporte, sean propietarios, conductores o cuidadores, deben garantizar condiciones que eviten el estrés, las lesiones y la mortalidad.
       .col-xl-auto(data-aos="fade-left")
         figure.d-none.d-xl-block
           img(src='@/assets/curso/temas/img135.png', alt='').m-auto

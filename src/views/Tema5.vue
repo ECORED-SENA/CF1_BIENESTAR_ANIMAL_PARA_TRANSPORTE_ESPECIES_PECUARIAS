@@ -64,7 +64,7 @@
             .row.h-100.justify-content-center.align-items-center
               .col-xl-6.mb-4
                 h4 Condiciones propias del animal
-                p.mb-0 Estado fisiológico (gestación, enfermedad, edad), temperamento nervioso o poca experiencia con humanos, sensibilidad específica por especie o raza (p. ej., bovinos europeos).
+                p.mb-0 Estado fisiológico (gestación, enfermedad, edad), temperamento nervioso o poca experiencia con humanos, sensibilidad específica por especie o raza (por ejemplo: bovinos europeos).
               .col-xl-6
                 figure.d-none.d-xl-block
                   img(src='@/assets/curso/temas/img124.png', alt=''  style="max-width: 500px").m-auto

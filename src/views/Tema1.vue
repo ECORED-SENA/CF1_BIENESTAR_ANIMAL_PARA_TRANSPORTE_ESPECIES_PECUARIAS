@@ -37,7 +37,7 @@
               .col-xl-6.mb-4
                 h4 Materias primas
                 <ul class="fa-ul estilo___ul_1 mb-0">
-                  <li class="mb-1"><span class="fa-li"><i class="fas fa-cow"></i></span><strong>Fibras textiles</strong>: lana de oveja, pelo de cabra (cashmere, mohair), crin de caballo.</li>
+                  <li class="mb-1"><span class="fa-li"><i class="fas fa-cow"></i></span><strong>Fibras textiles</strong>: lana de oveja, pelo de cabra (#[i.txt-color1 cashmere], #[i.txt-color1 mohair]), crin de caballo.</li>
                   <li class="mb-1"><span class="fa-li"><i class="fas fa-cow"></i></span><strong>Cueros y pieles</strong>: bovinos, porcinos y caprinos (industria del calzado y marroquinería).</li>
                   <li class="mb-0"><span class="fa-li"><i class="fas fa-cow"></i></span><strong>Plumas y subproductos avícolas</strong>: utilizados en textiles y artesanías.</li>
                 </ul>
@@ -121,7 +121,7 @@
             
             .row.h-100.justify-content-center.align-items-center
               .col-xl-6.mb-4
-                h4.mb-3 Porcinos (Sus <em>scrofa domesticus</em>)
+                h4.mb-3 Porcinos (<em>Sus scrofa domesticus</em>)
                 p.mb-3 Alta eficiencia alimenticia y producción de proteína animal.
                 <ul class="fa-ul estilo___ul_1 mb-0">
                   <li class="mb-1"><span class="fa-li"><i class="fas fa-cow"></i></span><strong>Producción de carne</strong>: chuletas, jamón, tocino, costilla, embutidos; muy demandados en zonas urbanas.</li>
@@ -151,10 +151,10 @@
                 h4.mb-3 Equinos (caballos, mulas, burros)
                 p.mb-3 Compañeros tradicionales en transporte, trabajo y cultura.
                 <ul class="fa-ul estilo___ul_1 mb-0">
-                  <li class="mb-1"><span class="fa-li"><i class="fas fa-cow"></i></span>Servicios: tracción, arado, transporte rural.</li>
-                  <li class="mb-1"><span class="fa-li"><i class="fas fa-cow"></i></span>Usos recreativos y deportivos: equitación, carreras, polo, coleo, cabalgatas.</li>
-                  <li class="mb-1"><span class="fa-li"><i class="fas fa-cow"></i></span>Valor cultural: presencia en fiestas, ferias, desfiles.</li>
-                  <li class="mb-0"><span class="fa-li"><i class="fas fa-cow"></i></span>Otros usos: consumo de carne y leche de yegua en ciertas regiones.</li>
+                  <li class="mb-1"><span class="fa-li"><i class="fas fa-cow"></i></span><b>Servicios</b>: tracción, arado, transporte rural.</li>
+                  <li class="mb-1"><span class="fa-li"><i class="fas fa-cow"></i></span><b>Usos recreativos y deportivos</b>: equitación, carreras, polo, coleo, cabalgatas.</li>
+                  <li class="mb-1"><span class="fa-li"><i class="fas fa-cow"></i></span><b>Valor cultural</b>: presencia en fiestas, ferias, desfiles.</li>
+                  <li class="mb-0"><span class="fa-li"><i class="fas fa-cow"></i></span><b>Otros usos</b>: consumo de carne y leche de yegua en ciertas regiones.</li>
                 </ul>
               .col-xl-6
                 figure.d-none.d-xl-block

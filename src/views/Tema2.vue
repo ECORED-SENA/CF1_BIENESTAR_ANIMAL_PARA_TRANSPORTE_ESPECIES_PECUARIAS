@@ -96,7 +96,7 @@
         
         .row.align-items-center.mb-5.m-0
           .col-xl
-            p.mb-3 La adopción de Buenas Prácticas de Bienestar Animal (BPBA) en la producción y transporte pecuario constituye una estrategia clave para garantizar no solo el confort y la salud de los animales, sino también la calidad de los productos, la sostenibilidad de los sistemas productivos y la aceptación social de la ganadería moderna.
+            p.mb-3 La adopción de Buenas Prácticas de Bienestar Animal (BPBA) en la producción y transporte pecuario constituye una estrategia clave para garantizar no solo el <em>confort</em> y la salud de los animales, sino también la calidad de los productos, la sostenibilidad de los sistemas productivos y la aceptación social de la ganadería moderna.
             .row.align-items-center.style___box_5.m-0.espacio___movil_4(data-aos="fade-right")
               .col-xl-auto
                 figure.d-none.d-xl-block

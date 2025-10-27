@@ -85,7 +85,7 @@
               tr.ajuste-color-tabla
                 td.ajuste-border-tabla.texto-left <strong>Protección animal</strong>
                 td.ajuste-border-tabla.texto-left Penaliza actos de crueldad, sufrimiento o lesiones.
-                td.texto-left Regula las condiciones mínimas de confort, cuidado, ventilación, alimentación y espacio.
+                td.texto-left Regula las condiciones mínimas de <em>confort</em>, cuidado, ventilación, alimentación y espacio.
               tr
                 td.ajuste-border-tabla.texto-left <strong>Responsables</strong>
                 td.ajuste-border-tabla.texto-left Propietarios, cuidadores y transportadores tienen responsabilidad penal y administrativa.

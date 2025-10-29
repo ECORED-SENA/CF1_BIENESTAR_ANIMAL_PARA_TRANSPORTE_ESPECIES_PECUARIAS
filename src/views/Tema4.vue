@@ -22,7 +22,7 @@
       .col
         h3 Comportamiento natural y bienestar en animales de producción
 
-    p.mb-4 A continuación, se presenta un <em>podcast</em> que compara el comportamiento, el manejo y los efectos del transporte en distintas especies animales, destacando sus particularidades etológicas y las implicaciones prácticas para su bienestar y rendimiento productivo.
+    p.mb-4 A continuación, se presenta un pódcast que compara el comportamiento, el manejo y los efectos del transporte en distintas especies animales, destacando sus particularidades etológicas y las implicaciones prácticas para su bienestar y rendimiento productivo.
 
     .row.align-items-center.m-0.mb-5
       .col-xl
@@ -31,7 +31,7 @@
             figure.d-none.d-xl-block(data-aos="fade-right")
               img(src="@/assets/curso/temas/img110.svg" style="max-width: 220px").m-auto
           .col
-            h4.mb-4 Lo invitamos a escuchar el siguiente <em>podcast</em>:
+            h4.mb-4 Lo invitamos a escuchar el siguiente pódcast:
             TarjetaAudio.color-acento-contenido.mb-3(
               texto="Especies y transporte: comportamiento, manejo y repercusiones en el bienestar animal"
               :audio="require('@/assets/componentes/audios/Podcast_CF1.mp3')"

@@ -613,7 +613,7 @@
     #t_3_6.titulo-segundo.color-acento-contenido(data-aos="fade-right")
       h2 3.6 Comportamiento de búfalos
 
-    p.mb-5 El manejo humanitario de los búfalos de agua (Bubalus Bubalis) es fundamental para garantizar su bienestar, optimizar su rendimiento productivo y prevenir riesgos tanto para los animales como para el personal. Aunque comparten similitudes con los bovinos, su comportamiento, fisiología y necesidades ambientales exigen prácticas específicas.
+    p.mb-5 El manejo humanitario de los búfalos de agua (<em>Bubalus Bubalis</em>) es fundamental para garantizar su bienestar, optimizar su rendimiento productivo y prevenir riesgos tanto para los animales como para el personal. Aunque comparten similitudes con los bovinos, su comportamiento, fisiología y necesidades ambientales exigen prácticas específicas.
 
     .caja-titulos-tercer-nivel.mb-5(data-aos="fade-right")
       .col-lg-auto
